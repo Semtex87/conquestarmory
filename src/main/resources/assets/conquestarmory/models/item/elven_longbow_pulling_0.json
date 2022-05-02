@@ -1,0 +1,6 @@
+{
+  "parent": "conquestarmory:item/elven_longbow",
+  "textures": {
+    "layer0": "conquestarmory:item/elven_longbow_pulling_0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/double_steel_glaive"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-109.34, 84.53, -13],
+			"translation": [0.5, -8.25, 2],
+			"scale": [2.5, 2.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-130.25, -90, 0],
+			"translation": [0.5, -5.75, 2],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-148, 84.53, -13],
+			"translation": [0.5, -5.75, 2],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-135, -90, 0],
+			"translation": [0.5, -5.75, 2],
+			"scale": [2, 2, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"translation": [-4.25, 6.5, -1.5],
+			"scale": [3, 3, 0.5]
+		}
+	}
+}

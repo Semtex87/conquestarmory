@@ -1,0 +1,6 @@
+{
+  "parent": "conquestarmory:item/steel_long_warbow",
+  "textures": {
+    "layer0": "conquestarmory:item/steel_long_warbow_pulling_1"
+  }
+}

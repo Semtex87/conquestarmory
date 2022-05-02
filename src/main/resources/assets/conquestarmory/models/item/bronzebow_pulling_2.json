@@ -1,0 +1,6 @@
+{
+  "parent": "conquestarmory:item/bronzebow",
+  "textures": {
+    "layer0": "conquestarmory:item/bronzebow_pulling_2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "grindstone": {
+    "category": "blocks",
+    "subtitle": "conquestarmory.grindstone",
+    "sounds": [
+      "conquestarmory:grindstone"
+    ]
+  }
+}

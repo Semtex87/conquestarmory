@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iS ",
+    "T  ",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "conquestarmory:smithinghammer"
+    },
+    "T": {
+      "item": "conquestarmory:tongs"
+    }
+  },
+  "result": {
+    "item": "conquestarmory:ironchains",
+    "count": 2
+  }
+}

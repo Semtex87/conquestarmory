@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/pole_flail"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-18.35, 85.46, 90.03],
+			"translation": [0, 8, 4.75],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [178.65, 85.46, 90.03],
+			"translation": [0, 8, 4.75],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-82.1, 85.46, 90.03],
+			"translation": [0, 6, 1.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [100.4, 85.46, 90.03],
+			"translation": [0, 6, 1.25],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -2.25],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}

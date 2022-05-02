@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_ingot"
+  },
+  "addition": {
+    "item": "conquestarmory:smithinghammer"
+  },
+  "result": {
+    "item": "conquestarmory:iron_fittings"
+  }
+}

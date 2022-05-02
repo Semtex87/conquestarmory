@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/dagger_diamond"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-51, -90, 0],
+			"translation": [0, 4.75, 0.75],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-42.25, 90, 0],
+			"translation": [0, 4.75, 0.75],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-51, -90, 0],
+			"translation": [0, 4.75, 0.75],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-42.25, 90, 0],
+			"translation": [0, 4.75, 0.75],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"ground": {
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"fixed": {
+			"translation": [3.5, 4.75, -1.25],
+			"scale": [2, 2, 1]
+		}
+	}
+}

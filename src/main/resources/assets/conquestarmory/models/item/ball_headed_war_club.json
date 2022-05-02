@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/ball_headed_war_club"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [65, -89, 98],
+			"translation": [0, 5, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-138.58, 83.3, -53.2],
+			"translation": [-1, -8, -0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-138.58, 83.3, -53.2],
+			"translation": [-1, -8, -0.25]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -2],
+			"scale": [2, 2, 1]
+		}
+	}
+}

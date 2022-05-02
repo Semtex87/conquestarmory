@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C#",
+    "C#M",
+    "#M "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "C": {
+      "item": "conquestarmory:leatherstripes"
+    },
+    "M": {
+      "item": "conquestarmory:bowstring"
+    }
+  },
+  "result": {
+    "item": "conquestarmory:bone_longbow",
+    "count": 1
+  }
+}

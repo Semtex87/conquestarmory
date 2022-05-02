@@ -1,0 +1,6 @@
+{
+  "parent": "conquestarmory:item/iron_crossbow",
+  "textures": {
+    "layer0": "conquestarmory:item/iron_crossbow_pulling_2"
+  }
+}

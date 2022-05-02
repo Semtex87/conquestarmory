@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "conquestarmory:linen"
+    }
+  },
+  "result": {
+    "item": "conquestarmory:cheap_boots",
+    "count": 1
+  }
+}

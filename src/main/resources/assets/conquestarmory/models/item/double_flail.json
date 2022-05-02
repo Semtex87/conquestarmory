@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/double_flail"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-30.6, 85.46, 90.03],
+			"translation": [0, 3, 3.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-175.35, 85.46, 90.03],
+			"translation": [0, 3, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-30.6, 85.46, 90.03],
+			"translation": [0, 3.75, 2.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [120.65, 85.46, 90.03],
+			"translation": [0, 3, 2]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -1.75],
+			"scale": [2, 2, 1]
+		}
+	}
+}

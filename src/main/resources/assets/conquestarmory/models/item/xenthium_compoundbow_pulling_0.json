@@ -1,0 +1,6 @@
+{
+  "parent": "conquestarmory:item/xenthium_compoundbow",
+  "textures": {
+    "layer0": "conquestarmory:item/xenthium_compoundbow_pulling_0"
+  }
+}

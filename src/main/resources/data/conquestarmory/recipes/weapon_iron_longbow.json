@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #C",
+    "#CU",
+    "CU "
+  ],
+  "key": {
+    "#": {
+      "item": "conquestarmory:iron_fittings"
+    },
+    "C": {
+      "item": "conquestarmory:bowlimbs"
+    },
+    "U": {
+      "item": "conquestarmory:bowstring"
+    }
+  },
+  "result": {
+    "item": "conquestarmory:iron_longbow",
+    "count": 1
+  }
+}

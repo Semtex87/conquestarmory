@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/katar_iron"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-130.25, -90, 0],
+			"translation": [0, -1.5, -7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-41.25, -90, 0],
+			"translation": [0, -1.5, -7]
+		},
+		"firstperson_righthand": {
+			"rotation": [-130.25, -90, 0],
+			"translation": [0, -1.5, -7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-41.25, -90, 0],
+			"translation": [0, -1.5, -7]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -1.75],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}

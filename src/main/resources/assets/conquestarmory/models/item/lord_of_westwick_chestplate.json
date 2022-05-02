@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0": "conquestarmory:item/lord_of_westwick_chestplate"
+  }
+}

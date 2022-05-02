@@ -1,0 +1,6 @@
+{
+  "parent": "conquestarmory:item/steelbow",
+  "textures": {
+    "layer0": "conquestarmory:item/steelbow_pulling_0"
+  }
+}

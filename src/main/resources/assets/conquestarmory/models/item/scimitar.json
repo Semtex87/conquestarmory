@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/scimitar"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45.25, -90, 0],
+			"translation": [0, 6.75, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-45.25, 90, 0],
+			"translation": [0, 6.75, 1.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-45.25, -90, 0],
+			"translation": [0, 6.75, 1.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-45.25, 90, 0],
+			"translation": [0, 6.75, 1.75]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -1.75],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "conquestarmory:item/stahlrim_bow",
+  "textures": {
+    "layer0": "conquestarmory:item/stahlrim_bow_pulling_1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "conquestarmory:item/chrysamere"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50, 90, 0],
+			"translation": [0, 16.5, 3.25],
+			"scale": [2, 2, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-40, 90, 0],
+			"translation": [0, 16.5, 3.25],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [50, 90, 0],
+			"translation": [0, 16.5, 3.25],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-49, 90, 0],
+			"translation": [0, 16.5, 3.25],
+			"scale": [2, 2, 0.5]
+		},
+		"ground": {
+			"translation": [0, 10, 0],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"gui": {
+			"translation": [3.5, 3.75, 0],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"head": {
+			"rotation": [-180, 90, 0],
+			"translation": [8, -26, 2]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"translation": [-5.75, 5.25, -1],
+			"scale": [2.5, 2.5, 0.5]
+		}
+	}
+}

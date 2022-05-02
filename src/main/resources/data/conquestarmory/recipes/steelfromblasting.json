@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "conquestarmory:iron_and_coal"
+  },
+  "result": "conquestarmory:steel_ingot",
+  "experience": 2.0,
+  "cookingtime": 160
+}

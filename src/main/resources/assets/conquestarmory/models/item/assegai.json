@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "conquestarmory:item/assegai"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-13.91, 86.08, 62.13],
+			"translation": [0, 4.5, 2.25],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-102.41, 86.08, 62.13],
+			"translation": [0, 4.5, 2.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-64.91, 86.08, 62.13],
+			"translation": [0, 4.5, 2.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-102.41, 86.08, 62.13],
+			"translation": [0, 4.5, 2.25],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 4.75],
+			"translation": [0, 0, -0.75],
+			"scale": [3, 3, 1]
+		},
+	  "overrides": [
+         {
+            "predicate": {
+                "throwing": 0
+            },
+            "model": "conquestarmory:item/assegai_in_hand"
+        },
+        {
+            "predicate": {
+                "throwing": 1
+            },
+            "model": "conquestarmory:item/assegai_throwing"
+        }
+    ]
+}
+}

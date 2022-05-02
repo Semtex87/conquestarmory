@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#CU",
+    " UP"
+  ],
+  "key": {
+    "#": {
+      "item": "conquestarmory:iron_rivets"
+    },
+    "C": {
+      "item": "conquestarmory:iron_fittings"
+    },
+    "U": {
+      "item": "conquestarmory:bowlimbs"
+    },
+    "P": {
+      "item": "conquestarmory:bowstring"
+    }
+  },
+  "result": {
+    "item": "conquestarmory:iron_crossbow",
+    "count": 1
+  }
+}

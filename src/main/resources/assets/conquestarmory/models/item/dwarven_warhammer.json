@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/dwarven_warhammer"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-103, -88, -59.58],
+			"translation": [1, 5.5, 1.75],
+			"scale": [2, 2, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [62.91, 85.92, -41.67],
+			"translation": [0, 2.5, 7.5],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-149, -88, -59.58],
+			"translation": [1, 5.5, 1.75],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [62.91, 85.92, -90],
+			"translation": [0, 2.5, 7.5],
+			"scale": [2, 2, 0.5]
+		},
+		"ground": {
+			"translation": [0, 10, 0],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"fixed": {
+			"translation": [2.25, 2.75, -1.75],
+			"scale": [3, 3, 1]
+		}
+	}
+}

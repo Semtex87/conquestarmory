@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/iron_warhammer"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45.25, -90, 0],
+			"translation": [0, 9.25, 0.75],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-43, 90, 0],
+			"translation": [0, 9, 0.75],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-50, -90, 0],
+			"translation": [0, 5.25, 0.75],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-57.25, 90, 0],
+			"translation": [0, 5.25, 0.75],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"fixed": {
+			"translation": [4, 3.75, -1.75],
+			"scale": [2, 2, 1]
+		}
+	}
+}

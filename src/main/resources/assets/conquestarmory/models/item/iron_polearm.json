@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/iron_polearm"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-38.79, -90, 0],
+			"translation": [-0.25, 5.75, 2],
+			"scale": [2, 2, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [24.21, 90, 0],
+			"translation": [-0.25, 1.5, 7.75],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-66.04, -90, 0],
+			"translation": [-0.25, 5.75, 2],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-50, 90, 0],
+			"translation": [-0.25, 1.5, 7.75],
+			"scale": [2, 2, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 0, -1.25],
+			"scale": [3, 3, 1]
+		}
+	}
+}

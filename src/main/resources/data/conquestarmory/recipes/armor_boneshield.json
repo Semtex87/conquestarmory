@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "C#C",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone"
+    },
+    "C": {
+      "item": "conquestarmory:leatherstripes"
+    }
+  },
+  "result": {
+    "item": "conquestarmory:bone_shield",
+    "count": 1
+  }
+}

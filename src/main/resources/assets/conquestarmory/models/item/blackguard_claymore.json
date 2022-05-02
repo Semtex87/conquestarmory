@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/blackguard_claymore"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-109.34, 84.53, 159.7],
+			"translation": [-0.75, 10.25, 2.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [160.41, 84.53, 159.7],
+			"translation": [-0.75, 10.25, 2.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-109.34, 84.53, 159.7],
+			"translation": [-0.75, 10.25, 2.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [160.41, 84.53, 159.7],
+			"translation": [-0.75, 10.25, 2.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 0.5, -2],
+			"scale": [3, 3, 1]
+		}
+	}
+}

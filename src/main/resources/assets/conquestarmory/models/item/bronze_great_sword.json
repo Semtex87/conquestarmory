@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/bronze_great_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [110.12, 85.02, -59.18],
+			"translation": [0.5, 8.75, 2.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [19.87, 85.02, -59.18],
+			"translation": [0.5, 8.75, 2],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [98, 85.02, -59.18],
+			"translation": [0.5, 8.75, 2.5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, 85.02, -59.18],
+			"translation": [0.5, 8.75, 2],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [1, 0.75, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"translation": [-0.75, 0, -1.75],
+			"scale": [3, 3, 1]
+		}
+	}
+}

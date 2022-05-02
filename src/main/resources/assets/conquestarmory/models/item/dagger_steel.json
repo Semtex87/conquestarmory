@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "conquestarmory:item/dagger_steel"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-42.25, -90, 0],
+			"translation": [0, 4, 1.5],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-39.25, 90, 0],
+			"translation": [0, 4, 1.5],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-42.25, -90, 0],
+			"translation": [0, 4, 1.5],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-39.25, 90, 0],
+			"translation": [0, 4, 1.5],
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"ground": {
+			"scale": [0.6, 0.6, 0.5]
+		},
+		"fixed": {
+			"translation": [1.25, 2.5, -1.5],
+			"scale": [2, 2, 1]
+		}
+	}
+}

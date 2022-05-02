@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C",
+    "CN"
+  ],
+  "key": {
+    "#": {
+      "item": "conquestarmory:iron_fittings"
+    },
+    "C": {
+      "item": "conquestarmory:bowlimbs"
+    },
+    "N": {
+      "item": "conquestarmory:bowstring"
+    }
+  },
+  "result": {
+    "item": "conquestarmory:ironbow",
+    "count": 1
+  }
+}
